@@ -68,9 +68,9 @@ python visualizer.py --map_path maps/dynamic_map.txt --log_path proof_of_concept
 
 Output:
 ![WhatsApp Image 2025-09-21 at 23 42 13_41ba1b5d](https://github.com/user-attachments/assets/b026a3c6-6e08-43e6-98eb-aba9f996f384)
-![WhatsApp Image 2025-09-21 at 23 29 52_5b681ae4](https://github.com/user-attachments/assets/65c7078c-c340-442f-8583-9eb9c03b8108)
-![WhatsApp Image 2025-09-21 at 23 29 52_e7a1ad9e](https://github.com/user-attachments/assets/5b95bb16-ff3a-428f-b9a7-93877957f73e)
-![WhatsApp Image 2025-09-21 at 23 29 52_679210a7](https://github.com/user-attachments/assets/6bb76340-a9c7-4824-a557-87dc5d1f3cde)
+1. ![WhatsApp Image 2025-09-21 at 23 29 52_5b681ae4](https://github.com/user-attachments/assets/65c7078c-c340-442f-8583-9eb9c03b8108)
+2. ![WhatsApp Image 2025-09-21 at 23 29 52_e7a1ad9e](https://github.com/user-attachments/assets/5b95bb16-ff3a-428f-b9a7-93877957f73e)
+3. ![WhatsApp Image 2025-09-21 at 23 29 52_679210a7](https://github.com/user-attachments/assets/6bb76340-a9c7-4824-a557-87dc5d1f3cde)
 
 
 
